@@ -28,6 +28,8 @@
     "react-hook-form": "^7.52.0",
     "jwt-decode": "^4.0.0",
     "react-hot-toast": "^2.4.1",
+    "@stripe/react-stripe-js": "^2.7.3",
+    "@stripe/stripe-js": "^3.5.0",
     "@types/bcryptjs": "^2.4.6"
   },
   "devDependencies": {
